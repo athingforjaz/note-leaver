@@ -1,5 +1,5 @@
 # Welcome to Note Leaver!
-Ever wanted to leave a note for a short period of time, but have it persist once you refresh the page. Me too! Gosh, we have so much in common already!
+Ever wanted to leave a note for a short period of time, but have it not persist once you refresh the page. Me too! Gosh, we have so much in common already!
 
 ![note-leaver](images/note-leaver.png "note-leaver")
 
