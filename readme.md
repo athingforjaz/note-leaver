@@ -1,5 +1,5 @@
 # Welcome to Note Leaver!
-Ever wanted to leave a note for a short period of time, but have it not persist once you refresh the page. Me too! Gosh, we have so much in common already!
+Ever wanted to leave a note for a short period of time, but have it not persist once you refresh the page. Me too! Gosh, we have so much in common already! (Coming from my website slider? This is just the non-persistent front end - please let me know if you'd like to see the Rails version!)
 
 ![note-leaver](images/note-leaver.png "note-leaver")
 
